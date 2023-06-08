@@ -1,0 +1,32 @@
+body{ 
+    font-weight: bolder;
+
+}
+
+.Belief{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+#Mine{ 
+    background-color: cadetblue;
+    list-style: none;
+    list-style-image: none;
+
+}
+
+#Burn{
+    background-color: darkcyan; 
+    list-style: georgian;
+
+}
+
+#Best{ 
+    background-color: cyan;
+    list-style: circle; 
+
+}
+
+ol{ 
+    list-style-type: upper-roman; 
+}
